@@ -23,4 +23,3 @@
 - [Github pages](https://pages.github.com/)
 - [HTML, CSS, Javascript Tutorials](https://www.w3schools.com/)
 - [Leaflet](https://leafletjs.com/)
-- [Γεωχωρικά δεδομένα GEODATA.gov.gr](http://geodata.gov.gr/)
